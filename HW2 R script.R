@@ -2,6 +2,9 @@
 
 ### Q4 
 ### part a
+### reading in the data 
+bodyfat <- read_csv("~/Desktop/UW MS Biostat/BIOST FALL 2021/Biost 514/R dataset/bodyfat.csv")
+
 ### plot a boxplot to show distribution of the men’s body weights (in pounds)
 jpeg("~/Desktop/UW MS Biostat/BIOST Fall 2021/Biost 514/R work/HW 2/HW 2jpg_weight.jpg", width=600,height=400)
 weight <- bodyfat[,c("weight")]
