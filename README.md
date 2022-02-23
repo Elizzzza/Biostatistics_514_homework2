@@ -1,5 +1,4 @@
-# Biostat 514/517 
-## Homework 2
+# Biostat 514/517 Homework 2
 #### Instructor: Ken Rice
 
 - Please read the class site for details on appropriate answering of questions. Discussion of the questions with 
